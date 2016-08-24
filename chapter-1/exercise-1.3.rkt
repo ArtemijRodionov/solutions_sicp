@@ -20,4 +20,4 @@
       (sum-of-larger-square 5 10 1))
      375)
     "Test OK"
-    "Test fail")
+    "Test failed")
